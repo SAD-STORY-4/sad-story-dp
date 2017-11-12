@@ -2,6 +2,11 @@ Jack and Jill went up the hill, to fetch a pail of water.
 
 Unfortunately, Jack fell down and hurt his head.
 
+Luckily, JACK wasn't hurt badly, and JILL found the water soon.
+
+Unfortunately, JACK couldn't carry water because he was injured.
+
+
 this is a test for conflict.
 
 delet bbbbb
